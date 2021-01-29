@@ -1,0 +1,60 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.heading h3
+{
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid bisque;
+    border-radius: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.marioFace
+{
+    width: 90%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#start, #status
+{
+    font-size: 22px;
+    border-radius: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h4
+{
+    background-color: bisque;
+    line-height: 2;
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.instructionImage
+{
+    display: inline-block;
+    width: 45%;
+}
+
+video 
+{ 
+    background: url('game_console.png'); 
+    background-size: cover; 
+    background-position: center; 
+    padding: 25px; 
+}
